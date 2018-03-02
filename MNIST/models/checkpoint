@@ -1,0 +1,2 @@
+model_checkpoint_path: "5_mnist_conv_dropoutyes_lr0.0001"
+all_model_checkpoint_paths: "5_mnist_conv_dropoutyes_lr0.0001"
